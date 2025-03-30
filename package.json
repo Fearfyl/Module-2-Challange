@@ -1,0 +1,23 @@
+{
+  "name": "module-2-challange",
+  "version": "1.0.0",
+  "main": "Express.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fearfyl/Module-2-Challange.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fearfyl/Module-2-Challange/issues"
+  },
+  "homepage": "https://github.com/Fearfyl/Module-2-Challange#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
